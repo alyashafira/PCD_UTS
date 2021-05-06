@@ -1,4 +1,4 @@
-# PCD_UTS
+# PCD_UTS_APLIKASI_GUI_MATLAB
 Pengolahan Citra Digital
 
 
